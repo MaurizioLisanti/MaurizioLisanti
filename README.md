@@ -1,6 +1,6 @@
 # Hi, I'm Maurizio 👋
 
-Backend Engineer building agentic AI systems
+Backend Developer building agentic AI systems
 on Italian institutional domains.
 
 ## 🚀 What I build
