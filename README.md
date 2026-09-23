@@ -13,6 +13,8 @@ on Italian institutional domains.
   on Italian energy regulations (GSE)
 - **GaraAI** — Multi-agent pipeline
   for Italian public tenders · *in development, private*
+ - **invoiceops-agent** — Model-agnostic AI agent
+  that diagnoses SDI/FatturaPA flows through MCP tools
 
 ## 🛠️ Stack
 
@@ -21,8 +23,10 @@ CakePHP · FastAPI · Docker · Weaviate
 
 ## 🎓 Certifications
 
-Anthropic Certified — MCP Advanced Topics
-+ 7 other Anthropic certifications
+Anthropic Certified:
+- Model Context Protocol: Advanced Topics
+- Building with the Claude API
+- Introduction to Agent Skills
 
 ## 🐧 Community
 
@@ -38,5 +42,4 @@ AI agentica su domini istituzionali italiani.
 Fondatore di Linux PropLUG.
 
 📫 [LinkedIn](https://www.linkedin.com/in/maurizio-lisanti)
-· [Dev.to](https://dev.to)
 · [PyPI](https://pypi.org/user/maurizioweb)
