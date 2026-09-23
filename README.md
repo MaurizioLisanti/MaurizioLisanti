@@ -7,14 +7,14 @@ on Italian institutional domains.
 
 - **fatturapa-mcp-server** — Open source MCP server
   for Italian e-invoicing (FatturaPA/SDI) · [PyPI](https://pypi.org/project/fatturapa-mcp-server/)
+- **invoiceops-agent** — Model-agnostic AI agent
+  that diagnoses SDI/FatturaPA flows through MCP tools
 - **sdi-ops-monitor** — Operational dashboard
   for SDI/FatturaPA flows on AWS
 - **conto-termico-gse** — Agentic RAG system
   on Italian energy regulations (GSE)
 - **GaraAI** — Multi-agent pipeline
   for Italian public tenders · *in development, private*
- - **invoiceops-agent** — Model-agnostic AI agent
-  that diagnoses SDI/FatturaPA flows through MCP tools
 
 ## 🛠️ Stack
 
