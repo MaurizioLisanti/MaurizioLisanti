@@ -12,7 +12,7 @@ on Italian institutional domains.
 - **conto-termico-gse** — Agentic RAG system
   on Italian energy regulations (GSE)
 - **GaraAI** — Multi-agent pipeline
-  for Italian public tenders · *coming soon*
+  for Italian public tenders · COMMING SOON
 
 ## 🛠️ Stack
 
